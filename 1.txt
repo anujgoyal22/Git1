@@ -11,5 +11,20 @@ Copied from https://sahilali.medium.com/how-to-direct-commit-without-stage-b9a84
            Stage Changes: First, we tell Git which changes we want to save by using the “add” command (git add).
            Commit Changes: Then, we actually save those changes using the “commit” command (git commit).
            git commit -am "Your message here"
+           
            git remote add origin https://github.com/w3schools-test/hello-world.git
            git push --set-upstream origin master
+           
+           Pull--
+           pull is a combination of 2 different commands:
+             fetch---
+             git fetch origin
+             git status
+             git log origin/master
+             git diff origin/master
+             Merge--
+             git merge origin/master
+             git status
+             Git Pull--
+             git pull origin
+         
