@@ -1,4 +1,9 @@
 1
 2
 3
+Staging--
 git add --all
+Commit--
+git commit -m "Commit"
+Commit directly without Staging---
+git commit -a -m "Commit directly"
