@@ -7,3 +7,4 @@ Commit--
 git commit -m "Commit"
 Commit directly without Staging---
 git commit -a -m "Commit directly"
+git branch
