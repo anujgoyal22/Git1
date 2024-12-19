@@ -12,3 +12,4 @@ Copied from https://sahilali.medium.com/how-to-direct-commit-without-stage-b9a84
            Commit Changes: Then, we actually save those changes using the “commit” command (git commit).
            git commit -am "Your message here"
            git remote add origin https://github.com/w3schools-test/hello-world.git
+           git push --set-upstream origin master
