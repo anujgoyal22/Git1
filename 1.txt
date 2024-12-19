@@ -1,13 +1,14 @@
 1
 2
 3
-Staging--
-git add --all
-Commit--
-git commit -m "Commit"
-Commit directly without Staging---
-git commit -a -m "Commit directly"
+        Staging--
+        git add --all
+        Commit--
+           git commit -m "Commit"
+        Commit directly without Staging---
+           git commit -a -m "Commit directly"
 Copied from https://sahilali.medium.com/how-to-direct-commit-without-stage-b9a846e99556---
-Stage Changes: First, we tell Git which changes we want to save by using the “add” command (git add).
-Commit Changes: Then, we actually save those changes using the “commit” command (git commit).
-git commit -am "Your message here"
+           Stage Changes: First, we tell Git which changes we want to save by using the “add” command (git add).
+           Commit Changes: Then, we actually save those changes using the “commit” command (git commit).
+           git commit -am "Your message here"
+           git remote add origin https://github.com/w3schools-test/hello-world.git
