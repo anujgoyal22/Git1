@@ -37,3 +37,6 @@ Copied from https://sahilali.medium.com/how-to-direct-commit-without-stage-b9a84
          Push a Branch to GitHub------
              git checkout -b branch1
              git status
+         Now push the branch from our local Git repository,
+         to GitHub, where everyone can see the changes:    
+             git push origin <branch-name>
