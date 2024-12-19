@@ -7,7 +7,11 @@ Commit--
 git commit -m "Commit"
 Commit directly without Staging---
 git commit -a -m "Commit directly"
+<<<<<<< HEAD
 Copied from---
 Stage Changes: First, we tell Git which changes we want to save by using the “add” command (git add).
 Commit Changes: Then, we actually save those changes using the “commit” command (git commit).
 git commit -am "Your message here"
+=======
+git branch
+>>>>>>> master
