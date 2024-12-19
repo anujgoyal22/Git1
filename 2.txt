@@ -1,0 +1,7 @@
+1
+2
+3
+4
+Commit directly without Staging---
+git commit -a -m "Commit directly"
+git checkout <branch-name>
