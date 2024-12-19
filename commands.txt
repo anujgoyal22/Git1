@@ -34,3 +34,6 @@ Copied from https://sahilali.medium.com/how-to-direct-commit-without-stage-b9a84
              git status
          Now push our changes to our remote origin:
              git push origin
+         Push a Branch to GitHub------
+             git checkout -b branch1
+             git status
