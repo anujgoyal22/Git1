@@ -27,4 +27,4 @@ Copied from https://sahilali.medium.com/how-to-direct-commit-without-stage-b9a84
              git status
              Git Pull--
              git pull origin
-         
+         To exit press Esc+:wq
