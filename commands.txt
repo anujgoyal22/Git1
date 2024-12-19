@@ -28,3 +28,9 @@ Copied from https://sahilali.medium.com/how-to-direct-commit-without-stage-b9a84
              Git Pull--
              git pull origin
          To exit press Esc+:wq
+         Push Changes to GitHub------
+         make some changes to our local git and pushing them to GitHub
+             git commit -a -m "Edit commands.text
+             git status
+         Now push our changes to our remote origin:
+             git push origin
